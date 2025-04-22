@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EHMS](https://github.com/HarshSharmaCodes/EHMS)
 
-- 🌱 I’m currently learning **NextJS and more Frameworks in Mern Stack**
+- 🌱 I’m currently exploring **ReactJS and more Frameworks in Mern Stack**
 
 - 📫 How to reach me **hs0899728@gmail.com**
 

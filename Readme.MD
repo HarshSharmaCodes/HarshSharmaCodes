@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on a **Resume Builder Using AI**
 - 🌱 Learning **Data Structures & Algorithms** and modern **Web Development Frameworks**
-- 💬 Ask me about: **JavaScript, React, Node.js, MongoDB, DSA, Java**
+- 💬 Ask me about: **Java, DSA, React, Javascript, Node.js, MongoDB**
 - ⚡ Portfolio: [portfolio-harsh-sharma.vercel.app](https://portfolio-harsh-sharma.vercel.app/)
 
 ---
@@ -53,12 +53,12 @@
 
 <p align="center">
   <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
 </p>
 
 <p align="center">

@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=ayushk0204&label=👀%20Profile%20views%20&color=0e75b6&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=HarshSharmaCodes&label=👀%20Profile%20views%20&color=0e75b6&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
 

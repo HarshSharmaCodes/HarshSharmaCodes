@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a **Learning Management System (LMS)**
+- 🔭 I’m currently working on a **Resume Builder Using AI**
 - 🌱 Learning **Data Structures & Algorithms** and modern **Web Development Frameworks**
 - 💬 Ask me about: **JavaScript, React, Node.js, MongoDB, DSA, Java**
 - ⚡ Portfolio: [portfolio-harsh-sharma.vercel.app](https://portfolio-harsh-sharma.vercel.app/)
